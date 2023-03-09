@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Remove="Class1.cs" />
+      <Compile Remove="1 - Apresentação\**" />
+      <Compile Remove="2 - Dominio\**" />
+      <Compile Remove="3 - Infraestrutura\**" />
+      <Compile Remove="4 - Entidades\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="1 - Apresentação\**" />
+      <EmbeddedResource Remove="2 - Dominio\**" />
+      <EmbeddedResource Remove="3 - Infraestrutura\**" />
+      <EmbeddedResource Remove="4 - Entidades\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="1 - Apresentação\**" />
+      <None Remove="2 - Dominio\**" />
+      <None Remove="3 - Infraestrutura\**" />
+      <None Remove="4 - Entidades\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Entidades" />
+      <Folder Include="Enums" />
+      <Folder Include="Notificacaoes" />
+    </ItemGroup>
+
+</Project>
