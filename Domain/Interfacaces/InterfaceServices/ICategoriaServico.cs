@@ -1,6 +1,6 @@
 namespace Domain.Interfacaces.InterfaceServices;
 
-public interface ICategoriaService
+public interface ICategoriaServico
 {
     
 }

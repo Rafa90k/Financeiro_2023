@@ -1,0 +1,12 @@
+C:\Estudos\Financeiro_2023\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Estudos\Financeiro_2023\Domain\bin\Debug\net7.0\Domain.dll
+C:\Estudos\Financeiro_2023\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Estudos\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Estudos\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Estudos\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Estudos\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Estudos\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.dll
+C:\Estudos\Financeiro_2023\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Estudos\Financeiro_2023\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Estudos\Financeiro_2023\Domain\obj\Debug\net7.0\ref\Domain.dll
