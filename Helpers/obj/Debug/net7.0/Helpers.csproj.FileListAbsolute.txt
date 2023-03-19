@@ -1,4 +1,5 @@
 C:\Estudos\Financeiro_2023\Helpers\bin\Debug\net7.0\Helpers.deps.json
+C:\Estudos\Financeiro_2023\Helpers\bin\Debug\net7.0\Helpers.runtimeconfig.json
 C:\Estudos\Financeiro_2023\Helpers\bin\Debug\net7.0\Helpers.dll
 C:\Estudos\Financeiro_2023\Helpers\bin\Debug\net7.0\Helpers.pdb
 C:\Estudos\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.csproj.AssemblyReference.cache
@@ -9,4 +10,5 @@ C:\Estudos\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.csproj.CoreCompileIn
 C:\Estudos\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.dll
 C:\Estudos\Financeiro_2023\Helpers\obj\Debug\net7.0\refint\Helpers.dll
 C:\Estudos\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.pdb
+C:\Estudos\Financeiro_2023\Helpers\obj\Debug\net7.0\Helpers.genruntimeconfig.cache
 C:\Estudos\Financeiro_2023\Helpers\obj\Debug\net7.0\ref\Helpers.dll

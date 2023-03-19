@@ -1,4 +1,5 @@
 C:\Estudos\Financeiro_2023\Entities\bin\Debug\net7.0\Entities.deps.json
+C:\Estudos\Financeiro_2023\Entities\bin\Debug\net7.0\Entities.runtimeconfig.json
 C:\Estudos\Financeiro_2023\Entities\bin\Debug\net7.0\Entities.dll
 C:\Estudos\Financeiro_2023\Entities\bin\Debug\net7.0\Entities.pdb
 C:\Estudos\Financeiro_2023\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
@@ -9,4 +10,5 @@ C:\Estudos\Financeiro_2023\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompile
 C:\Estudos\Financeiro_2023\Entities\obj\Debug\net7.0\Entities.dll
 C:\Estudos\Financeiro_2023\Entities\obj\Debug\net7.0\refint\Entities.dll
 C:\Estudos\Financeiro_2023\Entities\obj\Debug\net7.0\Entities.pdb
+C:\Estudos\Financeiro_2023\Entities\obj\Debug\net7.0\Entities.genruntimeconfig.cache
 C:\Estudos\Financeiro_2023\Entities\obj\Debug\net7.0\ref\Entities.dll
